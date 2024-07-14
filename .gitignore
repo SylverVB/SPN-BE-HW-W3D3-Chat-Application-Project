@@ -1,0 +1,11 @@
+# Virtual Environment
+venv
+
+# __pycache__ files
+__pycache__
+
+# Ignore the .env which has our environment variables
+.env
+
+# Ignore .DS_Store 
+.DS_Store
